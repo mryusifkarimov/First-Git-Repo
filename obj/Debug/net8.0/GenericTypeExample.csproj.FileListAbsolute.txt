@@ -1,0 +1,14 @@
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\bin\Debug\net8.0\GenericTypeExample.exe
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\bin\Debug\net8.0\GenericTypeExample.deps.json
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\bin\Debug\net8.0\GenericTypeExample.runtimeconfig.json
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\bin\Debug\net8.0\GenericTypeExample.dll
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\bin\Debug\net8.0\GenericTypeExample.pdb
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\GenericTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\GenericTypeExample.AssemblyInfoInputs.cache
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\GenericTypeExample.AssemblyInfo.cs
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\GenericTypeExample.csproj.CoreCompileInputs.cache
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\GenericTypeExample.dll
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\refint\GenericTypeExample.dll
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\GenericTypeExample.pdb
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\GenericTypeExample.genruntimeconfig.cache
+C:\Projects\Lessons\HEWartCompany\CSharp\group-d\Lesson\GenericTypeExample\obj\Debug\net8.0\ref\GenericTypeExample.dll

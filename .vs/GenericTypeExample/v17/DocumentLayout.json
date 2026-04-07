@@ -1,0 +1,756 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\controllers\\paymentmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\controllers\\productmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\paymentmanager\\paymentprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\paymentmanager\\paymentprocessinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\paymentmanager\\paymenttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD66152-2E49-4997-99D6-3422DFE5FF53}|..\\Demo\\Demo.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\controllers\\coordinatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\parentchildes\\childebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\bookstore\\coordinate2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\partial\\subs\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\bookstore\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\parentchildes\\basebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\bookstore\\bookupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\bookstore\\bookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BCF816-8CC7-4AC9-9AFE-9C4CD19E9F66}|..\\Stringbuilder\\Stringbuilder.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BCF816-8CC7-4AC9-9AFE-9C4CD19E9F66}|..\\Stringbuilder\\Stringbuilder.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\stringbuilder\\stringbuilderextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\chainfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:chainfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D36029-40E8-468D-AC20-F7E3DF84DA69}|..\\StringType\\StringType.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\stringtype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D36029-40E8-468D-AC20-F7E3DF84DA69}|..\\StringType\\StringType.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\stringtype\\paramsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\partial\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4893852B-72E5-4958-9743-60DDB0CA39C1}|..\\CollectionGenbericTypes\\CollectionGenbericTypes.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\collectiongenberictypes\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070E1D1-4B47-4EBC-947B-9300F5F5EF37}|..\\ValueAndRefType\\ValueAndRefType.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\valueandreftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070E1D1-4B47-4EBC-947B-9300F5F5EF37}|..\\ValueAndRefType\\ValueAndRefType.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\valueandreftype\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4893852B-72E5-4958-9743-60DDB0CA39C1}|..\\CollectionGenbericTypes\\CollectionGenbericTypes.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\collectiongenberictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C1481C-DEEE-47F8-A5EB-1E289F9C2C9C}|..\\DelegateAndList\\DelegateAndList.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\delegateandlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C1481C-DEEE-47F8-A5EB-1E289F9C2C9C}|..\\DelegateAndList\\DelegateAndList.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\delegateandlist\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\genericarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:genericarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C1481C-DEEE-47F8-A5EB-1E289F9C2C9C}|..\\DelegateAndList\\DelegateAndList.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\delegateandlist\\customlistfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4893852B-72E5-4958-9743-60DDB0CA39C1}|..\\CollectionGenbericTypes\\CollectionGenbericTypes.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\collectiongenberictypes\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848219B2-47CC-4110-A2EA-6542057DA748}|..\\Delegates\\Delegates.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848219B2-47CC-4110-A2EA-6542057DA748}|..\\Delegates\\Delegates.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\delegates\\simplefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\iparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:iparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\generictypeexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:generictypeexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentProcessInfo.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentProcessInfo.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\PaymentManager\\PaymentProcessInfo.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentProcessInfo.cs",
+              "RelativeToolTip": "..\\ProductApi\\PaymentManager\\PaymentProcessInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:38:10.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentManagerController.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\PaymentManagerController.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\PaymentManagerController.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\PaymentManagerController.cs",
+              "RelativeToolTip": "..\\ProductApi\\Controllers\\PaymentManagerController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:35:43.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentProcess.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentProcess.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\PaymentManager\\PaymentProcess.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentProcess.cs",
+              "RelativeToolTip": "..\\ProductApi\\PaymentManager\\PaymentProcess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:10:14.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Program.cs",
+              "RelativeToolTip": "..\\ProductApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:14:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Coordinate2D.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Coordinate2D.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\Coordinate2D.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Coordinate2D.cs",
+              "RelativeToolTip": "..\\ProductApi\\BookStore\\Coordinate2D.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:05:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "..\\ProductApi\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:16:06.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StringBuilderExtention.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Stringbuilder\\StringBuilderExtention.cs",
+              "RelativeDocumentMoniker": "..\\Stringbuilder\\StringBuilderExtention.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Stringbuilder\\StringBuilderExtention.cs",
+              "RelativeToolTip": "..\\Stringbuilder\\StringBuilderExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:23:13.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Stringbuilder\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Stringbuilder\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Stringbuilder\\Program.cs",
+              "RelativeToolTip": "..\\Stringbuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:09:36.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ParamsExample.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\StringType\\ParamsExample.cs",
+              "RelativeDocumentMoniker": "..\\StringType\\ParamsExample.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\StringType\\ParamsExample.cs",
+              "RelativeToolTip": "..\\StringType\\ParamsExample.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:27:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManagerController.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\ProductManagerController.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\ProductManagerController.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\ProductManagerController.cs",
+              "RelativeToolTip": "..\\ProductApi\\Controllers\\ProductManagerController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwJsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:43:57.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentTypes.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentTypes.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\PaymentManager\\PaymentTypes.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentTypes.cs",
+              "RelativeToolTip": "..\\ProductApi\\PaymentManager\\PaymentTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:39:44.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demo\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Demo\\Program.cs",
+              "RelativeToolTip": "..\\Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:16:05.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoordinateController.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\CoordinateController.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\CoordinateController.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\CoordinateController.cs",
+              "RelativeToolTip": "..\\ProductApi\\Controllers\\CoordinateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:13:39.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Book.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\Book.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Book.cs",
+              "RelativeToolTip": "..\\ProductApi\\BookStore\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:14:24.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\StringType\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StringType\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\StringType\\Program.cs",
+              "RelativeToolTip": "..\\StringType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:34:28.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChildeBook.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ParentChildes\\ChildeBook.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\ParentChildes\\ChildeBook.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ParentChildes\\ChildeBook.cs",
+              "RelativeToolTip": "..\\ProductApi\\ParentChildes\\ChildeBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:18:02.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseBook.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ParentChildes\\BaseBook.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\ParentChildes\\BaseBook.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ParentChildes\\BaseBook.cs",
+              "RelativeToolTip": "..\\ProductApi\\ParentChildes\\BaseBook.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:17:27.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Partial\\Subs\\Car.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Partial\\Subs\\Car.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Partial\\Subs\\Car.cs",
+              "RelativeToolTip": "..\\ProductApi\\Partial\\Subs\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:11:14.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookUpdate.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\BookUpdate.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\BookUpdate.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\BookUpdate.cs",
+              "RelativeToolTip": "..\\ProductApi\\BookStore\\BookUpdate.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:20:31.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookStatus.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\BookStatus.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\BookStatus.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\BookStatus.cs",
+              "RelativeToolTip": "..\\ProductApi\\BookStore\\BookStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:39:54.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Partial\\Car.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Partial\\Car.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Partial\\Car.cs",
+              "RelativeToolTip": "..\\ProductApi\\Partial\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:10:26.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductUpdate.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ProductUpdate.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\ProductUpdate.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ProductUpdate.cs",
+              "RelativeToolTip": "..\\ProductApi\\ProductUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T19:31:51.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Product.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Product.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Product.cs",
+              "RelativeToolTip": "..\\ProductApi\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:44:28.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\ProductApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:40:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ValueAndRefType\\Person.cs",
+              "RelativeDocumentMoniker": "..\\ValueAndRefType\\Person.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ValueAndRefType\\Person.cs",
+              "RelativeToolTip": "..\\ValueAndRefType\\Person.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:28:32.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ValueAndRefType\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ValueAndRefType\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ValueAndRefType\\Program.cs",
+              "RelativeToolTip": "..\\ValueAndRefType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:28:16.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\Fruit.cs",
+              "RelativeDocumentMoniker": "..\\CollectionGenbericTypes\\Fruit.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\Fruit.cs",
+              "RelativeToolTip": "..\\CollectionGenbericTypes\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T19:26:57.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CollectionGenbericTypes\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\Program.cs",
+              "RelativeToolTip": "..\\CollectionGenbericTypes\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:25:46.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DelegateAndList\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\Program.cs",
+              "RelativeToolTip": "..\\DelegateAndList\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:13:44.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Child.cs",
+              "RelativeDocumentMoniker": "Child.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Child.cs",
+              "RelativeToolTip": "Child.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:28:56.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Parent.cs",
+              "RelativeDocumentMoniker": "Parent.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Parent.cs",
+              "RelativeToolTip": "Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:28:09.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:25:53.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:29:08.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenericArray.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericArray.cs",
+              "RelativeDocumentMoniker": "GenericArray.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericArray.cs",
+              "RelativeToolTip": "GenericArray.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:45:54.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:21:36.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\Fruit.cs",
+              "RelativeDocumentMoniker": "..\\DelegateAndList\\Fruit.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\Fruit.cs",
+              "RelativeToolTip": "..\\DelegateAndList\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T19:23:38.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ListHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\ListHelper.cs",
+              "RelativeDocumentMoniker": "..\\CollectionGenbericTypes\\ListHelper.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\ListHelper.cs",
+              "RelativeToolTip": "..\\CollectionGenbericTypes\\ListHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:27:35.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomListFunctions.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\CustomListFunctions.cs",
+              "RelativeDocumentMoniker": "..\\DelegateAndList\\CustomListFunctions.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\CustomListFunctions.cs",
+              "RelativeToolTip": "..\\DelegateAndList\\CustomListFunctions.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:16:41.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ListHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\ListHelper.cs",
+              "RelativeDocumentMoniker": "ListHelper.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\ListHelper.cs",
+              "RelativeToolTip": "ListHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:26:18.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Delegates\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Delegates\\Program.cs",
+              "RelativeToolTip": "..\\Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:50:16.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SimpleFunction.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Delegates\\SimpleFunction.cs",
+              "RelativeDocumentMoniker": "..\\Delegates\\SimpleFunction.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Delegates\\SimpleFunction.cs",
+              "RelativeToolTip": "..\\Delegates\\SimpleFunction.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:19:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GenericTypeExample",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericTypeExample.csproj",
+              "RelativeDocumentMoniker": "GenericTypeExample.csproj",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericTypeExample.csproj",
+              "RelativeToolTip": "GenericTypeExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T18:37:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IParent.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\IParent.cs",
+              "RelativeDocumentMoniker": "IParent.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\IParent.cs",
+              "RelativeToolTip": "IParent.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:34:34.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Calculation.cs",
+              "RelativeDocumentMoniker": "Calculation.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Calculation.cs",
+              "RelativeToolTip": "Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:22:34.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChainFunction.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\ChainFunction.cs",
+              "RelativeDocumentMoniker": "ChainFunction.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\ChainFunction.cs",
+              "RelativeToolTip": "ChainFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:31:20.081Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
