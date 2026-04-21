@@ -44,10 +44,10 @@ var ramil = "Ramil";
 var age = 45;
 
 
-if (typeof(age).IsPrimitive)
-{
+//if (typeof(age).IsPrimitive)
+//{
 
-}
+//}
 
 var names = new string[] {
 ali, mamed, vugar, ramil,
