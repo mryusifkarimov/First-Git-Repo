@@ -11,7 +11,7 @@
             this.PageNo = PageNo;
             this.Note = note;
         }
-        public override string ToString() => $"Name:{Name}, PageNo:{PageNo, Note:{Note}";
+        public override string ToString() => $"Name:{Name}, PageNo:{PageNo}, Note:{Note}";
     }
 
 
