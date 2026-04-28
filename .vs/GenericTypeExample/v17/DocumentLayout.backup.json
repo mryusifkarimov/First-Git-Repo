@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4893852B-72E5-4958-9743-60DDB0CA39C1}|..\\CollectionGenbericTypes\\CollectionGenbericTypes.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\collectiongenberictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\genericarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:genericarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\iparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:iparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4893852B-72E5-4958-9743-60DDB0CA39C1}|..\\CollectionGenbericTypes\\CollectionGenbericTypes.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\collectiongenberictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C2088E-D51D-43B7-90CB-A615BBE354FE}|..\\ProductApi\\ProductApi.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\productapi\\paymentmanager\\paymentprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -109,10 +125,6 @@
       "AbsoluteMoniker": "D:0:0:{29C1481C-DEEE-47F8-A5EB-1E289F9C2C9C}|..\\DelegateAndList\\DelegateAndList.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\delegateandlist\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\genericarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:genericarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29C1481C-DEEE-47F8-A5EB-1E289F9C2C9C}|..\\DelegateAndList\\DelegateAndList.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\delegateandlist\\customlistfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -141,10 +153,6 @@
       "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\iparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:iparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|c:\\projects\\lessons\\hewartcompany\\csharp\\group-d\\lesson\\generictypeexample\\generictypeexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{5706B730-BCE0-4467-867C-86CA767917D2}|GenericTypeExample.csproj|solutionrelative:generictypeexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
@@ -156,7 +164,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -184,43 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ProductApi\\Program.cs",
-              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Program.cs",
-              "RelativeToolTip": "..\\ProductApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T18:14:20.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Coordinate2D.cs",
-              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Coordinate2D.cs",
-              "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\Coordinate2D.cs",
-              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Coordinate2D.cs",
-              "RelativeToolTip": "..\\ProductApi\\BookStore\\Coordinate2D.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T19:05:24.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\BookController.cs",
-              "RelativeToolTip": "..\\ProductApi\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T18:16:06.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "StringBuilderExtention.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Stringbuilder\\StringBuilderExtention.cs",
               "RelativeDocumentMoniker": "..\\Stringbuilder\\StringBuilderExtention.cs",
@@ -232,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Stringbuilder\\Program.cs",
               "RelativeDocumentMoniker": "..\\Stringbuilder\\Program.cs",
@@ -244,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ParamsExample.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\StringType\\ParamsExample.cs",
               "RelativeDocumentMoniker": "..\\StringType\\ParamsExample.cs",
@@ -256,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ProductManagerController.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\ProductManagerController.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\ProductManagerController.cs",
@@ -268,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "PaymentTypes.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentTypes.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\PaymentManager\\PaymentTypes.cs",
@@ -280,20 +252,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Calculation.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Calculation.cs",
               "RelativeDocumentMoniker": "Calculation.cs",
               "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Calculation.cs",
               "RelativeToolTip": "Calculation.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwCEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:22:34.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PaymentProcessInfo.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentProcessInfo.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\PaymentManager\\PaymentProcessInfo.cs",
@@ -305,20 +277,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
               "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T19:29:08.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAmwKMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T19:08:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:32:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\Program.cs",
               "RelativeDocumentMoniker": "..\\CollectionGenbericTypes\\Program.cs",
@@ -326,25 +324,86 @@
               "RelativeToolTip": "..\\CollectionGenbericTypes\\Program.cs",
               "ViewState": "AgIAAIkAAAAAAAAAAAAhwJ4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T18:25:46.258Z",
+              "WhenOpened": "2025-12-11T18:25:46.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IParent.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\IParent.cs",
+              "RelativeDocumentMoniker": "IParent.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\IParent.cs",
+              "RelativeToolTip": "IParent.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:34:34.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAApwDEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:21:36.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "..\\ProductApi\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:16:06.131Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GenericArray.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericArray.cs",
+              "RelativeDocumentMoniker": "GenericArray.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericArray.cs",
+              "RelativeToolTip": "GenericArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:45:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Coordinate2D.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Coordinate2D.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\Coordinate2D.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Coordinate2D.cs",
+              "RelativeToolTip": "..\\ProductApi\\BookStore\\Coordinate2D.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:05:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProductApi\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Program.cs",
+              "RelativeToolTip": "..\\ProductApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:14:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PaymentProcess.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\PaymentManager\\PaymentProcess.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\PaymentManager\\PaymentProcess.cs",
@@ -356,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "PaymentManagerController.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\PaymentManagerController.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\PaymentManagerController.cs",
@@ -368,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "..\\Demo\\Program.cs",
@@ -380,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "CoordinateController.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\CoordinateController.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\CoordinateController.cs",
@@ -392,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\Book.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\Book.cs",
@@ -404,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\StringType\\Program.cs",
               "RelativeDocumentMoniker": "..\\StringType\\Program.cs",
@@ -416,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ChildeBook.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ParentChildes\\ChildeBook.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\ParentChildes\\ChildeBook.cs",
@@ -428,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "BaseBook.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ParentChildes\\BaseBook.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\ParentChildes\\BaseBook.cs",
@@ -440,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Partial\\Subs\\Car.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\Partial\\Subs\\Car.cs",
@@ -452,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "BookUpdate.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\BookUpdate.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\BookUpdate.cs",
@@ -464,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "BookStatus.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\BookStore\\BookStatus.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\BookStore\\BookStatus.cs",
@@ -476,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Partial\\Car.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\Partial\\Car.cs",
@@ -488,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "ProductUpdate.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\ProductUpdate.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\ProductUpdate.cs",
@@ -500,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Product.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\Product.cs",
@@ -512,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ProductApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "..\\ProductApi\\Controllers\\WeatherForecastController.cs",
@@ -524,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ValueAndRefType\\Person.cs",
               "RelativeDocumentMoniker": "..\\ValueAndRefType\\Person.cs",
@@ -536,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\ValueAndRefType\\Program.cs",
               "RelativeDocumentMoniker": "..\\ValueAndRefType\\Program.cs",
@@ -548,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Fruit.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\Fruit.cs",
               "RelativeDocumentMoniker": "..\\CollectionGenbericTypes\\Fruit.cs",
@@ -560,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\Program.cs",
               "RelativeDocumentMoniker": "..\\DelegateAndList\\Program.cs",
@@ -572,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "Child.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Child.cs",
               "RelativeDocumentMoniker": "Child.cs",
@@ -584,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Parent.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Parent.cs",
               "RelativeDocumentMoniker": "Parent.cs",
@@ -596,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
@@ -608,19 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "GenericArray.cs",
-              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericArray.cs",
-              "RelativeDocumentMoniker": "GenericArray.cs",
-              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericArray.cs",
-              "RelativeToolTip": "GenericArray.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:45:54.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "Fruit.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\Fruit.cs",
               "RelativeDocumentMoniker": "..\\DelegateAndList\\Fruit.cs",
@@ -632,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "ListHelper.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\CollectionGenbericTypes\\ListHelper.cs",
               "RelativeDocumentMoniker": "..\\CollectionGenbericTypes\\ListHelper.cs",
@@ -644,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "CustomListFunctions.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\DelegateAndList\\CustomListFunctions.cs",
               "RelativeDocumentMoniker": "..\\DelegateAndList\\CustomListFunctions.cs",
@@ -656,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "ListHelper.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\ListHelper.cs",
               "RelativeDocumentMoniker": "ListHelper.cs",
@@ -668,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Delegates\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates\\Program.cs",
@@ -680,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "SimpleFunction.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\Delegates\\SimpleFunction.cs",
               "RelativeDocumentMoniker": "..\\Delegates\\SimpleFunction.cs",
@@ -692,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "GenericTypeExample",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\GenericTypeExample.csproj",
               "RelativeDocumentMoniker": "GenericTypeExample.csproj",
@@ -703,19 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "IParent.cs",
-              "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\IParent.cs",
-              "RelativeDocumentMoniker": "IParent.cs",
-              "ToolTip": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\IParent.cs",
-              "RelativeToolTip": "IParent.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T12:34:34.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ChainFunction.cs",
               "DocumentMoniker": "C:\\Projects\\Lessons\\HEWartCompany\\CSharp\\group-d\\Lesson\\GenericTypeExample\\ChainFunction.cs",
               "RelativeDocumentMoniker": "ChainFunction.cs",

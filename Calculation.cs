@@ -25,13 +25,11 @@ namespace GenericTypeExample
 
         public static void Show<T, Z>(T a, Z b)
         {
-            //asdasda
             Console.WriteLine(b);
         }
 
         public static void ShowObj(object obj)
         {
-            ///sdsdfsdf
             Console.WriteLine(obj);
         }
     }
