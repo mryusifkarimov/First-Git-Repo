@@ -5,7 +5,7 @@
         public string Name { get; set; }
         public int PageNo { get; set; }
         public string Note { get; set; }
-        public Book(string Name, int PageNo, string note
+        public Book(string Name, int PageNo, string note)
         {
             this.Name = Name;
             this.PageNo = PageNo;
